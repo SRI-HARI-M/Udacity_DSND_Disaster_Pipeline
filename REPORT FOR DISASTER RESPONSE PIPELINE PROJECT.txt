@@ -1,0 +1,34 @@
+REPORT FOR DISASTER RESPONSE PIPELINE PROJECT:
+                    
+This report contains the sections covered as per the rubric.
+					
+	
+* Project Definition:
+	                  
+- All necesary metrics and project Overview and problem statement present in detail; 
+- Kindly refer 'ML Pipeline Preparation' & 'ETL Pipeline Preparation' and 'README.md' files attached.
+					   
+					
+* Analysis: 
+			
+- All the Data Exploration and Visualization necesary is present in 'ML Pipeline Preparation' & 'ETL Pipeline Preparation' file.
+			
+			
+* Methodology:
+	
+- The Data Preprocessing, Implementation and Refinement is explained in detail in the 'ML Pipeline Preparation' & 'ETL Pipeline Preparation' file.
+			
+	
+* Results:
+	
+- Model Evaluation and Validation and Justification is given in the 'ML Pipeline Preparation' & 'ETL Pipeline Preparation' and 'README.md' files.
+
+			
+* Conclusion:
+	
+- The conclusion elaborating on the solution with Reflection and improvement is given in the 'ML Pipeline Preparation' & 'ETL Pipeline Preparation' and 'README.md' files.
+			
+	
+* Deliverables:
+	
+- The Github Repository is included. Please refer 'README.md' file for the same. PEP8 best coding practices were used while working in this assignment.
